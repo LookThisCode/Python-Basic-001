@@ -9,4 +9,4 @@ def print_dos(*args):
     arg1, arg2 = args
     print "argumento1: %r, argumento2: %r" % (arg1, arg2)
 
-    
+
